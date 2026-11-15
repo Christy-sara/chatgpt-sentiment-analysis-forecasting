@@ -7,7 +7,7 @@ How do users feel about ChatGPT, and is that changing over time? This project cl
 - About **1.03 million** ChatGPT app reviews with star ratings and dates
 - A random sample of **50,000** reviews was used to keep processing fast; **47,453** remained after cleaning
 - Period covered: **July 2023 – May 2026**
-- Source: [add dataset link here]
+- Source: https://www.kaggle.com/code/ashishkumarak/chatgpt-google-play-reviews-scraping
 
 ## Approach
 
